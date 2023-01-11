@@ -1,4 +1,4 @@
-module github.com/hexdigest/gowrap
+module github.com/chudooder/gowrap
 
 require (
 	github.com/Masterminds/sprig/v3 v3.2.2
